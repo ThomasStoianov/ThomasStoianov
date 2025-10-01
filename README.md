@@ -32,6 +32,6 @@
   <img align="center"  alt="git logo" height="60" width="60" src="https://cdn.simpleicons.org/git/F05032"/>
 </div>
 
-<div>
-  <a href https://www.instagram.com/tstoianov_/
+<div style="width: 250px; height: 50px; background-color: #1e1e1e; display: flex; align-items: center; justify-content: center; border-radius: 8px;">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=ThomasStoianov.ThomasStoianov&style=flat&color=1e1e1e&countColor=00ff00" alt="Contador de visitantes" style="height: 40px; width: auto;">
 </div>
