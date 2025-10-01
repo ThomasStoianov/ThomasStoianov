@@ -26,7 +26,11 @@
   <img align="center" alt="Javascript" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
 </div>
 
-<div style=""></div>
+<div style="">
+  <h1>Ferramentas Utilizadas</h1>
+  <img align="center"  alt="figma logo" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+  <img align="center"  alt="git logo" height="60" width="60" src="https://cdn.simpleicons.org/git/F05032"/>
+</div>
 
 <div>
   <a href https://www.instagram.com/tstoianov_/
