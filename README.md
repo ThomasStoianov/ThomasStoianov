@@ -9,6 +9,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasStoianov&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
+<img 
+  src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FThomasStoianov%2FThomasStoianov&label=Contador+de+Visitas&icon=binoculars-fill&color=%23084298&message=&style=flat&tz=UTC" 
+  width="300" 
+  height="60" 
+  style="margin-top: 20px;">
+
 <div style="display: flex; gap: 50px; flex-wrap: wrap; align-items: center;"><br>
   <h1>Linguagens Utilizadas</h1>
   <img align="center" alt="HTML" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -30,8 +36,4 @@
   <h1>Ferramentas Utilizadas</h1>
   <img align="center"  alt="figma logo" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
   <img align="center"  alt="git logo" height="60" width="60" src="https://cdn.simpleicons.org/git/F05032"/>
-</div>
-
-<div style="width: 250px; height: 50px; background-color: #1e1e1e; display: flex; align-items: center; justify-content: center; border-radius: 8px;">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=ThomasStoianov.ThomasStoianov&style=flat&color=1e1e1e&countColor=00ff00" alt="Contador de visitantes" style="height: 40px; width: auto;">
 </div>
