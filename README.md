@@ -2,7 +2,6 @@
 - 🏫 Aluno da Escola Senai Paulo Skaf
 - 👨‍🎓 Cursando Programação em Jogos Digitais
 - 🧑🏻 Sempre disposto a aprender coisas novas
-- 😄 Pronomes: Ele/Dele
 
 - <div>
   <a href="https://github.com/ThomasStoianov">
