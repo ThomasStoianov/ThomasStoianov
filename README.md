@@ -39,4 +39,16 @@
   <h1>Ferramentas Utilizadas</h1>
   <img align="center"  alt="figma logo" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
   <img align="center"  alt="git logo" height="60" width="60" src="https://cdn.simpleicons.org/git/F05032"/>
+  <img align="center"  alt="git logo" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
+  <img align="center"  alt="git logo" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+  <img align="center"  alt="git logo" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
+  <img align="center"  alt="git logo" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phpstorm/phpstorm-original.svg" />
+  <img align="center"  alt="git logo" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" />
+  <img align="center"  alt="git logo" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maya/maya-original.svg" />
+  <img align="center"  alt="git logo" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center"  alt="git logo" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+  <img align="center"  alt="git logo" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" />
+          
+          
+          
 </div>
